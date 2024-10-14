@@ -16,6 +16,7 @@ The list is based on a great survey: [A Comprehensive Survey of Sentence Represe
 ## 2022
 | Paper |  Venue       | Pretrained model | GitHub                              |
 | :----:|:-----------:|:----------------:|:------------------------------------:|
+| [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations](https://arxiv.org/abs/2109.13059) | ICLR | https://github.com/amzn/trans-encoder?tab=readme-ov-file#huggingface-pretrained-models-for-sts | https://github.com/amzn/trans-encoder |
 | [Unsupervised Sentence Representation via Contrastive Learning with Mixing Negatives](https://cdn.aaai.org/ojs/21428/21428-13-25441-1-2-20220628.pdf) |  AAAI | - | - |
 | [Improving Contrastive Learning of Sentence Embeddings with Case-Augmented Positives and Retrieved Negatives](https://arxiv.org/abs/2206.02457) |  SIGIR | [cards_roberta_base.zip](https://dirl-sas-open.oss-cn-hangzhou.aliyuncs.com/cards_roberta_base.zip) <br/> [cards_roberta_large.zip](https://dirl-sas-open.oss-cn-hangzhou.aliyuncs.com/cards_roberta_large.zip) | https://github.com/alibaba/SimCSE-with-CARDS |
 | [An Information Minimization Based Contrastive Learning Model for Unsupervised Sentence Embeddings Learning](https://aclanthology.org/2022.coling-1.426/) |  COLING | - | https://github.com/ShaobinChen-AH/InforMin-CL |
@@ -38,6 +39,7 @@ The list is based on a great survey: [A Comprehensive Survey of Sentence Represe
 ## 2021
 | Paper |  Venue       | Pretrained model | GitHub                              |
 | :----:|:-----------:|:----------------:|:------------------------------------:|
+| [Semantic Re-tuning with Contrastive Tension](https://openreview.net/forum?id=Ov_sMNau-PF) | ICLR | https://github.com/FreddeFrallan/Contrastive-Tension?tab=readme-ov-file#supervised | https://github.com/FreddeFrallan/Contrastive-Tension |
 | [Dual-View Distilled BERT for Sentence Embedding](https://arxiv.org/abs/2104.08675) | SIGIR | -|-|
 | [PAUSE: Positive and Annealed Unlabeled Sentence Embedding](https://aclanthology.org/2021.emnlp-main.791/) | EMNLP Main | - | https://github.com/llcresearch/pause |
 | [Cross-lingual Sentence Embedding using Multi-Task Learning](https://aclanthology.org/2021.emnlp-main.716/) | EMNLP Main | - | - |
